@@ -2,3 +2,4 @@
 .idea/libraries/Maven__com_esotericsoftware_reflectasm_1_11_3.xml
 .idea
 graphql-java.iml
+target
