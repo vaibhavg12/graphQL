@@ -12,7 +12,7 @@ public Query(LinkRepository linkRepository) {
     this.linkRepository = linkRepository;
 }
 
-public List<Link> allLinks() {
+public List<Link> getAllLinks() {
     return linkRepository.getAllLinks();
 }
 }
