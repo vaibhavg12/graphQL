@@ -3,3 +3,4 @@
 .idea
 graphql-java.iml
 target
+.settings
